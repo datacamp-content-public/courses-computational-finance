@@ -1,5 +1,5 @@
 ---
-title: 'Chapter Title Here'
+title: 'Introduction to Programming'
 description: 'Chapter description goes here.'
 ---
 
@@ -24,6 +24,44 @@ This is an example exercise.
 `@pre_exercise_code`
 ```{python}
 
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: a7d1da812c
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+print ("aa")
 ```
 
 `@sample_code`
