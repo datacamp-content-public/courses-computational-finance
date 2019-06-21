@@ -1,6 +1,7 @@
 ---
 title: 'Introduction to Programming'
 description: 'Chapter description goes here.'
+free_preview: true
 ---
 
 ## Example coding exercise
